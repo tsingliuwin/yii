@@ -2,8 +2,8 @@
 
 return [
     'class' => 'yii\db\Connection',
-    'dsn' => 'mysql:host=rdsbn7vfmvmjufm.mysql.rds.aliyuncs.com:3306;dbname=eduwind',
-    'username' => 'tsing',
-    'password' => 'tsingliuwin58',
+    'dsn' => 'mysql:host=;dbname=',
+    'username' => '',
+    'password' => '',
     'charset' => 'utf8',
 ];
